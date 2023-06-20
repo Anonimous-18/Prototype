@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(2, 2, 2);  
+    margin-left: 505px;  
+}
+.titulo-principal{
+margin-left: 450px;
+color: aliceblue;
+}
+h1{
+    color: aliceblue;
+}
+button{
+    background-color: rgb(7, 7, 7);
+    color: aqua;
+    border-radius: 25px;
+    width: 10%;
+    height: 45px;
+    margin: 20px;
+    margin-left: 305px;
+}.btn-volver{
+    margin-left: 250px;
+}

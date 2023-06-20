@@ -1,0 +1,46 @@
+.id{
+    margin-left: 40px;
+}
+body{
+    background-color: black;
+    color: #fafafa;
+}
+.content{
+    color: rgb(243, 243, 243);
+    margin: 0% 20%;
+    flex-wrap: wrap;
+}
+.content div{
+    margin: 5% 20%;
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    border-radius: 25px;
+    width: 200px;
+    height: 50px;
+    color :rgb(0, 132, 255)
+}
+.portada{
+    margin-left: 450px;
+}
+button{
+    color: aqua;
+    border-radius: 25px;
+    background-color: black;
+    margin-right: 20px;
+
+}
+
+.CrearEmpleado{
+    background-color: rgb(5, 5, 5);
+    margin-left: 600px;
+
+}
+.Buscar{
+    margin-left: 5px;
+    color: #fafafa;
+    height: 50px;
+    width: 200px;
+    padding: 10px;
+}

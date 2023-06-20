@@ -1,0 +1,29 @@
+.llenar{
+    background-color:rgb(191, 0, 0) ;
+}
+th{
+    color: aqua;
+}
+tbody{
+    background-color: rgb(8, 8, 8);
+}
+.portada{
+    margin-left: 605px;
+}
+body{
+    background-color: rgb(252, 10, 10);
+}
+div a{
+background-color: rgb(77, 75, 75);
+color: aqua;
+border-radius: 55%;
+width: 100px;
+height: 400px;
+padding: 5px;
+margin-left: 1250px;
+}
+
+button{
+    background-color: aquamarine;
+    padding: 150px;
+}                          

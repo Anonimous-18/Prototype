@@ -1,0 +1,88 @@
+body{
+    background-color: black;
+}
+.div{
+    background-color: #00C8F3;
+    border-radius: 180px;
+    width: 850px;
+    height: 600px;
+}
+
+
+
+.uno{
+    margin-left: 1px;
+    border-radius: 25px;
+    }
+    
+.dos{
+margin-left: 150px;
+}
+.tres{
+    margin-left: 150px;
+}
+.vol{
+    margin-left: 50px;
+    background-color: black;
+    color: rgb(0, 175, 245);
+}
+.eva{
+    margin-left: 10px;
+}
+.em{
+    margin-left: 33px;
+ }
+.paz{
+    width: 150px;
+    border-radius: 25px;
+}
+.p{
+    width: 150px;
+    border-radius: 25px;
+}
+.pz{
+    width: 150px;
+    border-radius: 25px;
+}
+.a{
+    width: 150px;
+    border-radius: 25px;
+}
+
+.b{
+    width: 150px;
+    border-radius: 25px;
+}
+.c{
+    width: 150px;
+    border-radius: 25px;
+}
+.ir
+{
+    background-color: black;
+    color: aliceblue;
+    width: 45%;
+}
+.btn-falso{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    margin: 20px;
+}
+.div button{
+    background: transparent;
+    border: transparent;
+    margin: 10px;
+    border-radius: 25;
+}
+.btn-volver{
+    color: 16B8DC;
+    background: black;
+    border-radius: 25px;
+    width: 150%;
+
+}
+.btn-volver a{
+    background-color: #000000;
+    color: aqua;
+}

@@ -1,0 +1,60 @@
+
+body{
+    width: 0%;
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(12, 12, 12);
+    color: aliceblue;
+    text-align: center;
+}
+
+.imagen{
+    width: 10%;
+    padding: 50%;
+    margin: 10px;
+    margin-left: 200px;
+}
+form{
+    margin-left: 600px;
+   
+}
+.label{
+    border-radius: 25vh;
+    margin-left: 500px;
+}
+label{
+    border-radius: 25vh;
+    margin-left: 550px;
+}
+.contraseña{
+    border-radius: 25vh;
+    margin-left: 500px;
+}
+.usuario{
+    border-radius: 25vh;
+    margin-left: 500px;
+}
+input{
+    border-radius: 25vh;
+    margin-left: 500px;
+}
+.volver{
+    color: aqua;
+    margin-left: 580px;
+}
+.crear{
+    background-color: black;
+    color: aqua;
+    margin-left: 580px;
+}
+.div .imagen{
+    margin-left: 500px;
+}
+.usuario p{
+    border-radius: 25vh;
+    margin-left: 550px;
+}
+button  {
+    color: aqua;
+    margin-left: 590px;
+}
